@@ -1,0 +1,16 @@
+resolution 02-JS-I.
+Variables: Las variables son objetos que pueden cambiar su valor durante la ejecucion de un programa
+Esta es una forma de darle un nombre a un valor de algo.
+Por ejemplo si tenemos un programa que suma dos numeros usamos la variable para asignarle un nombre al
+ valor que sumamos sabiendo que en mediante esta operacion el valor que sumamos puede ir cambiando
+Strings: bloques de texto, palabras, basicamente, que asignamos al codigo. Estas mismas se definen entre 
+comillas.
+Funciones: una funcion es algo que cumple un objetivo en especifico.
+En programacion una funcion es un bloque de codigo que cumple con una tarea en especifica
+que nosotros le declaramos que haga. 
+Estas se usan para para calcular variables, como asi tambien para cambiarlas o hacer algo con ellas.
+Declaraciones: Las declaraciones son lo que le decimos que queremos que nos devuelva en base a la operacion
+que estabamos realizando. Por ejemplo usando la declaracion 'return' le decimos a la funcion que queremos 
+que nos devuelva el resultado de la operacion que escribimos en la funcion.
+Valores Booleanos: son valores que tienen dos opciones *true* o *false* que representan dos caminos que la
+funcion puede seguir en el cual nosotros declaramos la variable en cual caso corresponda.
